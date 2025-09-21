@@ -11,6 +11,11 @@ M = {
   require("wishu/plugins/telescope"),
   require("wishu/plugins/lsp"),
   require("wishu/plugins/conform"),
+  require("wishu/plugins/autopairs"),
+  require("wishu/plugins/surround"),
+  require("wishu/plugins/mini"),
+  require("wishu/plugins/tokyo"),
+  require("wishu/plugins/blink"),
 }
 
 return M
