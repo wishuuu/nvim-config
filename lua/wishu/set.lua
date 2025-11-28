@@ -28,4 +28,4 @@ vim.opt.smartcase = true
 vim.opt.updatetime = 250
 
 vim.opt.wrap = false
-vim.opt.guicursor = ""
+vim.opt.guicursor = "i:block"
